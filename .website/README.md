@@ -1,4 +1,8 @@
 ---
+genres:
+  - sports
+  - simulation
+  - arcade
 directors_cut: https://unicorn.tap2play.io/
 video: https://youtu.be/UNSHHMAn0zY
 # See github.com/js13kGames/hello-world for supported frontmatter
